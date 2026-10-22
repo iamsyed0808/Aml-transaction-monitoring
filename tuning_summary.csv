@@ -1,0 +1,4 @@
+rule,params_before,before_alerts,before_precision,before_recall,params_after,after_alerts,after_precision,after_recall
+structuring,"{'lo': 7000, 'n': 2}",65,0.385,1.0,"{'lo': 7000, 'n': 3}",25,1.0,1.0
+passthrough,{'amt': 5000},39,0.513,1.0,{'amt': 17500},20,1.0,1.0
+hr_wire,{'t': 1000},136,0.11,1.0,{'t': 10000},17,0.882,1.0
