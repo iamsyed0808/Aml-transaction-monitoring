@@ -1,5 +1,5 @@
 # AML Transaction Monitoring: Rule Design, Tuning & Dashboard
-
+Dashboard](dashboard.png)
 End-to-end transaction monitoring project: build detection rules, measure them, tune thresholds, report results.
 
 ## What it does
